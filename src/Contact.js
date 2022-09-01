@@ -39,6 +39,16 @@ desc:'i m wasif ali'
 
 
    },
+   {
+    id:'3',
+    name:'qeeqrwr',
+    img:'https://i1.sndcdn.com/artworks-05weslCSgT0srZgR-9gUdXg-t500x500.jpg',
+    desc:'i m wasif ali'
+    
+    
+       },
+    
+   
   ]
 
 
@@ -60,7 +70,7 @@ desc:'i m wasif ali'
       
       />
     ))}
-    </>
+    <
   );
 }
 
